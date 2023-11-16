@@ -12,5 +12,6 @@ public class BaseController {
         System.out.print("dev branch a");
         System.out.println("test add");
         System.out.println("test stash");
+        System.out.print("test pull");
     }
 }
